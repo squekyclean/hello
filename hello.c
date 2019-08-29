@@ -1,6 +1,6 @@
 /*
  *Isaac Hatfield
- *29 August 2019
+ *29 August 2019  
  *a short name printing type program
  */
 #include <stdio.h>
