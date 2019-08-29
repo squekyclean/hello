@@ -5,9 +5,11 @@
  */
 #include <stdio.h>
 
-int main()
+int main(int argc, char **argv)
 {
   printf("Isaac Hatfield\n");
-  printf("Major:Math/Computer Science\n")
+  printf("Major:Math/Computer Science\n");
+  printf("Tharvin\n");
+  printf("Civil Engineering\n");
   return 0;
 }
